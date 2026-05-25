@@ -164,6 +164,16 @@ Vehicle ownership and garage system.
 
 https://github.com/D4NTE98/d4tVehicles.git
 
+# Loading screen
+
+## d4tLoadingScreen
+
+Minimalistic loading screen for d4tFramework
+
+### Repository
+
+https://github.com/D4NTE98/d4tLoadingScreen.git
+
 ---
 
 # Recommended Resource Order
