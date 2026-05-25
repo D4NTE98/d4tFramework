@@ -1,5 +1,7 @@
 # d4tFramework
 
+![Logo](./assets/logo.png)
+
 Modern modular FiveM framework built for scalability, performance and full customization.
 
 Created by D4NTE
